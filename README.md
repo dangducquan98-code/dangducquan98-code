@@ -10,7 +10,7 @@ Business Analyst đạt chứng chỉ CBAP, 7 năm trong ngành phần mềm, đ
 
 ## Kinh nghiệm
 
-### Business Analyst · DEHA Vietnam JSC
+### Business Analyst
 
 2022 – hiện tại
 
@@ -18,14 +18,14 @@ Business Analyst đạt chứng chỉ CBAP, 7 năm trong ngành phần mềm, đ
 - Tham gia triển khai ERP cho nhà máy, từ phân tích nhu cầu đến UAT, đào tạo và bảo trì.
 - Cầu nối giữa khách hàng và đội kỹ thuật. Dẫn dắt nghiệm thu (UAT) để sản phẩm bám sát mục tiêu kinh doanh.
 
-### Scrum Master / Product Owner · DEHA Vietnam JSC
+### Scrum Master / Product Owner
 
 2020 – 2022
 
 - Quản lý Product Backlog: viết User Story và Acceptance Criteria, refinement để ưu tiên tính năng giá trị cao.
 - Điều phối Scrum (Planning, Daily, Review, Retrospective). Theo dõi Velocity, Burndown, gỡ bỏ impediment để đội đạt Sprint Goal.
 
-### Lập trình viên PHP · DEHA Vietnam JSC
+### Lập trình viên PHP
 
 2019 – 2020
 
@@ -34,10 +34,10 @@ Business Analyst đạt chứng chỉ CBAP, 7 năm trong ngành phần mềm, đ
 
 ## Chứng chỉ
 
-- Certified Business Analysis Professional (CBAP), IIBA, 2026
-- IFS Certified – Procurement Consultant, IFS, 2026
-- Professional Scrum Master II, Scrum.org, 2020
-- Professional Scrum Master I, Scrum.org, 2019
+- [Certified Business Analysis Professional (CBAP)](https://badges.iiba.org/02111a7f-66bc-4ac3-b495-44f6c129cb03#acc.aLXA3vib), IIBA, 2026
+- [IFS Certified – Procurement Consultant](https://www.credly.com/badges/428f8276-5c75-46f3-aabb-2852c0a1aa2c), IFS, 2026
+- [Professional Scrum Master II](https://www.scrum.org/user/579469), Scrum.org, 2020
+- [Professional Scrum Master I](https://www.scrum.org/user/579469), Scrum.org, 2019
 
 ## Kỹ năng
 
